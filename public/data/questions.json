@@ -2,7 +2,7 @@
   {
     "id": "w001",
     "tag": "writing",
-    "source": "mock-01",
+    "source": "original-set-01",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -16,7 +16,7 @@
   {
     "id": "w002",
     "tag": "writing",
-    "source": "mock-01",
+    "source": "original-set-01",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -30,7 +30,7 @@
   {
     "id": "w003",
     "tag": "writing",
-    "source": "mock-01",
+    "source": "original-set-01",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -44,7 +44,7 @@
   {
     "id": "w004",
     "tag": "writing",
-    "source": "mock-01",
+    "source": "original-set-01",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -58,7 +58,7 @@
   {
     "id": "w005",
     "tag": "writing",
-    "source": "mock-01",
+    "source": "original-set-01",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -72,7 +72,7 @@
   {
     "id": "w006",
     "tag": "writing",
-    "source": "mock-01",
+    "source": "original-set-01",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -86,7 +86,7 @@
   {
     "id": "w007",
     "tag": "writing",
-    "source": "mock-01",
+    "source": "original-set-01",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -100,7 +100,7 @@
   {
     "id": "w008",
     "tag": "writing",
-    "source": "mock-01",
+    "source": "original-set-01",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -114,7 +114,7 @@
   {
     "id": "w009",
     "tag": "writing",
-    "source": "mock-01",
+    "source": "original-set-01",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -128,7 +128,7 @@
   {
     "id": "w010",
     "tag": "writing",
-    "source": "mock-01",
+    "source": "original-set-01",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -142,7 +142,7 @@
   {
     "id": "w011",
     "tag": "writing",
-    "source": "mock-02",
+    "source": "original-set-02",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -156,7 +156,7 @@
   {
     "id": "w012",
     "tag": "writing",
-    "source": "mock-02",
+    "source": "original-set-02",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -170,7 +170,7 @@
   {
     "id": "w013",
     "tag": "writing",
-    "source": "mock-02",
+    "source": "original-set-02",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -184,7 +184,7 @@
   {
     "id": "w014",
     "tag": "writing",
-    "source": "mock-02",
+    "source": "original-set-02",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -198,7 +198,7 @@
   {
     "id": "w015",
     "tag": "writing",
-    "source": "mock-02",
+    "source": "original-set-02",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -212,7 +212,7 @@
   {
     "id": "w016",
     "tag": "writing",
-    "source": "mock-02",
+    "source": "original-set-02",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -226,7 +226,7 @@
   {
     "id": "w017",
     "tag": "writing",
-    "source": "mock-02",
+    "source": "original-set-02",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -240,7 +240,7 @@
   {
     "id": "w018",
     "tag": "writing",
-    "source": "mock-03",
+    "source": "original-set-03",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -254,7 +254,7 @@
   {
     "id": "w019",
     "tag": "writing",
-    "source": "mock-03",
+    "source": "original-set-03",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -268,7 +268,7 @@
   {
     "id": "w020",
     "tag": "writing",
-    "source": "mock-03",
+    "source": "original-set-03",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -282,7 +282,7 @@
   {
     "id": "w021",
     "tag": "writing",
-    "source": "mock-04",
+    "source": "original-set-04",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -296,7 +296,7 @@
   {
     "id": "w022",
     "tag": "writing",
-    "source": "mock-04",
+    "source": "original-set-04",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -310,7 +310,7 @@
   {
     "id": "w023",
     "tag": "writing",
-    "source": "mock-04",
+    "source": "original-set-04",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -324,7 +324,7 @@
   {
     "id": "w024",
     "tag": "writing",
-    "source": "mock-04",
+    "source": "original-set-04",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -338,7 +338,7 @@
   {
     "id": "w025",
     "tag": "writing",
-    "source": "mock-04",
+    "source": "original-set-04",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -352,7 +352,7 @@
   {
     "id": "w026",
     "tag": "writing",
-    "source": "mock-04",
+    "source": "original-set-04",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -366,7 +366,7 @@
   {
     "id": "w027",
     "tag": "writing",
-    "source": "mock-04",
+    "source": "original-set-04",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -380,7 +380,7 @@
   {
     "id": "w028",
     "tag": "writing",
-    "source": "mock-05",
+    "source": "original-set-05",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -394,7 +394,7 @@
   {
     "id": "w029",
     "tag": "writing",
-    "source": "mock-05",
+    "source": "original-set-05",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -408,7 +408,7 @@
   {
     "id": "w030",
     "tag": "writing",
-    "source": "mock-05",
+    "source": "original-set-05",
     "points": 2,
     "difficulty": 3,
     "question": "カタカナを漢字になおしなさい。",
@@ -422,7 +422,7 @@
   {
     "id": "w031",
     "tag": "writing",
-    "source": "mock-06",
+    "source": "original-set-06",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -436,7 +436,7 @@
   {
     "id": "w032",
     "tag": "writing",
-    "source": "mock-06",
+    "source": "original-set-06",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -450,7 +450,7 @@
   {
     "id": "w033",
     "tag": "writing",
-    "source": "mock-06",
+    "source": "original-set-06",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -464,7 +464,7 @@
   {
     "id": "w034",
     "tag": "writing",
-    "source": "mock-06",
+    "source": "original-set-06",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -478,7 +478,7 @@
   {
     "id": "w035",
     "tag": "writing",
-    "source": "mock-06",
+    "source": "original-set-06",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -492,7 +492,7 @@
   {
     "id": "w036",
     "tag": "writing",
-    "source": "mock-07",
+    "source": "original-set-07",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -506,7 +506,7 @@
   {
     "id": "w037",
     "tag": "writing",
-    "source": "mock-07",
+    "source": "original-set-07",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -520,7 +520,7 @@
   {
     "id": "w038",
     "tag": "writing",
-    "source": "mock-07",
+    "source": "original-set-07",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -534,7 +534,7 @@
   {
     "id": "w039",
     "tag": "writing",
-    "source": "mock-07",
+    "source": "original-set-07",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -548,7 +548,7 @@
   {
     "id": "w040",
     "tag": "writing",
-    "source": "mock-07",
+    "source": "original-set-07",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -562,7 +562,7 @@
   {
     "id": "w041",
     "tag": "writing",
-    "source": "ocr-answer-01",
+    "source": "generated-set-01",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -576,7 +576,7 @@
   {
     "id": "w042",
     "tag": "writing",
-    "source": "ocr-answer-01",
+    "source": "generated-set-01",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -590,7 +590,7 @@
   {
     "id": "w043",
     "tag": "writing",
-    "source": "ocr-answer-01",
+    "source": "generated-set-01",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -604,7 +604,7 @@
   {
     "id": "w044",
     "tag": "writing",
-    "source": "ocr-answer-01",
+    "source": "generated-set-01",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -618,7 +618,7 @@
   {
     "id": "w045",
     "tag": "writing",
-    "source": "ocr-answer-01",
+    "source": "generated-set-01",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -632,7 +632,7 @@
   {
     "id": "w046",
     "tag": "writing",
-    "source": "ocr-answer-01",
+    "source": "generated-set-01",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -646,7 +646,7 @@
   {
     "id": "w047",
     "tag": "writing",
-    "source": "ocr-answer-01",
+    "source": "generated-set-01",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -660,7 +660,7 @@
   {
     "id": "w048",
     "tag": "writing",
-    "source": "ocr-answer-01",
+    "source": "generated-set-01",
     "points": 2,
     "difficulty": 3,
     "question": "カタカナを漢字になおしなさい。",
@@ -674,7 +674,7 @@
   {
     "id": "w049",
     "tag": "writing",
-    "source": "ocr-answer-01",
+    "source": "generated-set-01",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -688,7 +688,7 @@
   {
     "id": "w050",
     "tag": "writing",
-    "source": "ocr-answer-01",
+    "source": "generated-set-01",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -702,7 +702,7 @@
   {
     "id": "w051",
     "tag": "writing",
-    "source": "ocr-answer-02",
+    "source": "generated-set-02",
     "points": 2,
     "difficulty": 3,
     "question": "カタカナを漢字になおしなさい。",
@@ -716,7 +716,7 @@
   {
     "id": "w052",
     "tag": "writing",
-    "source": "ocr-answer-02",
+    "source": "generated-set-02",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -730,7 +730,7 @@
   {
     "id": "w053",
     "tag": "writing",
-    "source": "ocr-answer-02",
+    "source": "generated-set-02",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -744,7 +744,7 @@
   {
     "id": "w054",
     "tag": "writing",
-    "source": "ocr-answer-02",
+    "source": "generated-set-02",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -758,7 +758,7 @@
   {
     "id": "w055",
     "tag": "writing",
-    "source": "ocr-answer-02",
+    "source": "generated-set-02",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -772,7 +772,7 @@
   {
     "id": "w056",
     "tag": "writing",
-    "source": "ocr-answer-02",
+    "source": "generated-set-02",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -786,7 +786,7 @@
   {
     "id": "w057",
     "tag": "writing",
-    "source": "ocr-answer-02",
+    "source": "generated-set-02",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -800,7 +800,7 @@
   {
     "id": "w058",
     "tag": "writing",
-    "source": "ocr-answer-02",
+    "source": "generated-set-02",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -814,7 +814,7 @@
   {
     "id": "w059",
     "tag": "writing",
-    "source": "ocr-answer-02",
+    "source": "generated-set-02",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -828,7 +828,7 @@
   {
     "id": "w060",
     "tag": "writing",
-    "source": "ocr-answer-02",
+    "source": "generated-set-02",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -842,7 +842,7 @@
   {
     "id": "w061",
     "tag": "writing",
-    "source": "ocr-answer-03",
+    "source": "generated-set-03",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -856,7 +856,7 @@
   {
     "id": "w062",
     "tag": "writing",
-    "source": "ocr-answer-03",
+    "source": "generated-set-03",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -870,7 +870,7 @@
   {
     "id": "w063",
     "tag": "writing",
-    "source": "ocr-answer-03",
+    "source": "generated-set-03",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -884,7 +884,7 @@
   {
     "id": "w064",
     "tag": "writing",
-    "source": "ocr-answer-03",
+    "source": "generated-set-03",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -898,7 +898,7 @@
   {
     "id": "w065",
     "tag": "writing",
-    "source": "ocr-answer-03",
+    "source": "generated-set-03",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -912,7 +912,7 @@
   {
     "id": "w066",
     "tag": "writing",
-    "source": "ocr-answer-03",
+    "source": "generated-set-03",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -926,7 +926,7 @@
   {
     "id": "w067",
     "tag": "writing",
-    "source": "ocr-answer-03",
+    "source": "generated-set-03",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -940,7 +940,7 @@
   {
     "id": "w068",
     "tag": "writing",
-    "source": "ocr-answer-03",
+    "source": "generated-set-03",
     "points": 2,
     "difficulty": 3,
     "question": "カタカナを漢字になおしなさい。",
@@ -954,7 +954,7 @@
   {
     "id": "w069",
     "tag": "writing",
-    "source": "ocr-answer-03",
+    "source": "generated-set-03",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -968,7 +968,7 @@
   {
     "id": "w070",
     "tag": "writing",
-    "source": "ocr-answer-03",
+    "source": "generated-set-03",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -982,7 +982,7 @@
   {
     "id": "w071",
     "tag": "writing",
-    "source": "ocr-answer-04",
+    "source": "generated-set-04",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -996,7 +996,7 @@
   {
     "id": "w072",
     "tag": "writing",
-    "source": "ocr-answer-04",
+    "source": "generated-set-04",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1010,7 +1010,7 @@
   {
     "id": "w073",
     "tag": "writing",
-    "source": "ocr-answer-04",
+    "source": "generated-set-04",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1024,7 +1024,7 @@
   {
     "id": "w074",
     "tag": "writing",
-    "source": "ocr-answer-04",
+    "source": "generated-set-04",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1038,7 +1038,7 @@
   {
     "id": "w075",
     "tag": "writing",
-    "source": "ocr-answer-04",
+    "source": "generated-set-04",
     "points": 2,
     "difficulty": 3,
     "question": "カタカナを漢字になおしなさい。",
@@ -1052,7 +1052,7 @@
   {
     "id": "w076",
     "tag": "writing",
-    "source": "ocr-answer-04",
+    "source": "generated-set-04",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1066,7 +1066,7 @@
   {
     "id": "w077",
     "tag": "writing",
-    "source": "ocr-answer-04",
+    "source": "generated-set-04",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1080,7 +1080,7 @@
   {
     "id": "w078",
     "tag": "writing",
-    "source": "ocr-answer-04",
+    "source": "generated-set-04",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1094,7 +1094,7 @@
   {
     "id": "w079",
     "tag": "writing",
-    "source": "ocr-answer-04",
+    "source": "generated-set-04",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1108,7 +1108,7 @@
   {
     "id": "w080",
     "tag": "writing",
-    "source": "ocr-answer-04",
+    "source": "generated-set-04",
     "points": 2,
     "difficulty": 3,
     "question": "カタカナを漢字になおしなさい。",
@@ -1122,7 +1122,7 @@
   {
     "id": "w081",
     "tag": "writing",
-    "source": "ocr-auto-p070",
+    "source": "generated-set-05",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1135,7 +1135,7 @@
   {
     "id": "w082",
     "tag": "writing",
-    "source": "ocr-auto-p070",
+    "source": "generated-set-05",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1148,7 +1148,7 @@
   {
     "id": "w083",
     "tag": "writing",
-    "source": "ocr-auto-p071",
+    "source": "generated-set-06",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1161,7 +1161,7 @@
   {
     "id": "w084",
     "tag": "writing",
-    "source": "ocr-auto-p071",
+    "source": "generated-set-06",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1174,7 +1174,7 @@
   {
     "id": "w085",
     "tag": "writing",
-    "source": "ocr-auto-p071",
+    "source": "generated-set-06",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1187,7 +1187,7 @@
   {
     "id": "w086",
     "tag": "writing",
-    "source": "ocr-auto-p071",
+    "source": "generated-set-06",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1200,7 +1200,7 @@
   {
     "id": "w087",
     "tag": "writing",
-    "source": "ocr-auto-p077",
+    "source": "generated-set-07",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1213,7 +1213,7 @@
   {
     "id": "w088",
     "tag": "writing",
-    "source": "ocr-auto-p077",
+    "source": "generated-set-07",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1226,7 +1226,7 @@
   {
     "id": "w089",
     "tag": "writing",
-    "source": "ocr-auto-p077",
+    "source": "generated-set-07",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1239,7 +1239,7 @@
   {
     "id": "w090",
     "tag": "writing",
-    "source": "ocr-auto-p077",
+    "source": "generated-set-07",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1252,7 +1252,7 @@
   {
     "id": "w091",
     "tag": "writing",
-    "source": "ocr-auto-p088",
+    "source": "generated-set-08",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1265,7 +1265,7 @@
   {
     "id": "w092",
     "tag": "writing",
-    "source": "ocr-auto-p089",
+    "source": "generated-set-09",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1278,7 +1278,7 @@
   {
     "id": "w093",
     "tag": "writing",
-    "source": "ocr-auto-p089",
+    "source": "generated-set-09",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1291,7 +1291,7 @@
   {
     "id": "w094",
     "tag": "writing",
-    "source": "ocr-auto-p089",
+    "source": "generated-set-09",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1304,7 +1304,7 @@
   {
     "id": "w095",
     "tag": "writing",
-    "source": "ocr-auto-p089",
+    "source": "generated-set-09",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1317,7 +1317,7 @@
   {
     "id": "w096",
     "tag": "writing",
-    "source": "ocr-auto-p095",
+    "source": "generated-set-10",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1330,7 +1330,7 @@
   {
     "id": "w097",
     "tag": "writing",
-    "source": "ocr-auto-p100",
+    "source": "generated-set-11",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1343,7 +1343,7 @@
   {
     "id": "w098",
     "tag": "writing",
-    "source": "ocr-auto-p100",
+    "source": "generated-set-11",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1356,7 +1356,7 @@
   {
     "id": "w099",
     "tag": "writing",
-    "source": "ocr-auto-p101",
+    "source": "generated-set-12",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1369,7 +1369,7 @@
   {
     "id": "w100",
     "tag": "writing",
-    "source": "ocr-auto-p107",
+    "source": "generated-set-13",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1382,7 +1382,7 @@
   {
     "id": "w101",
     "tag": "writing",
-    "source": "ocr-auto-p071",
+    "source": "generated-set-06",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1395,7 +1395,7 @@
   {
     "id": "w102",
     "tag": "writing",
-    "source": "ocr-auto-p071",
+    "source": "generated-set-06",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1408,7 +1408,7 @@
   {
     "id": "w103",
     "tag": "writing",
-    "source": "ocr-auto-p071",
+    "source": "generated-set-06",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1421,7 +1421,7 @@
   {
     "id": "w104",
     "tag": "writing",
-    "source": "ocr-auto-p076",
+    "source": "generated-set-14",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1434,7 +1434,7 @@
   {
     "id": "w105",
     "tag": "writing",
-    "source": "ocr-auto-p076",
+    "source": "generated-set-14",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1447,7 +1447,7 @@
   {
     "id": "w106",
     "tag": "writing",
-    "source": "ocr-auto-p076",
+    "source": "generated-set-14",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1460,7 +1460,7 @@
   {
     "id": "w107",
     "tag": "writing",
-    "source": "ocr-auto-p076",
+    "source": "generated-set-14",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1473,7 +1473,7 @@
   {
     "id": "w108",
     "tag": "writing",
-    "source": "ocr-auto-p077",
+    "source": "generated-set-07",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1486,7 +1486,7 @@
   {
     "id": "w109",
     "tag": "writing",
-    "source": "ocr-auto-p077",
+    "source": "generated-set-07",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1499,7 +1499,7 @@
   {
     "id": "w110",
     "tag": "writing",
-    "source": "ocr-auto-p082",
+    "source": "generated-set-15",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1512,7 +1512,7 @@
   {
     "id": "w111",
     "tag": "writing",
-    "source": "ocr-auto-p083",
+    "source": "generated-set-16",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1525,7 +1525,7 @@
   {
     "id": "w112",
     "tag": "writing",
-    "source": "ocr-auto-p088",
+    "source": "generated-set-08",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1538,7 +1538,7 @@
   {
     "id": "w113",
     "tag": "writing",
-    "source": "ocr-auto-p094",
+    "source": "generated-set-17",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1551,7 +1551,7 @@
   {
     "id": "w114",
     "tag": "writing",
-    "source": "ocr-auto-p094",
+    "source": "generated-set-17",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1564,7 +1564,7 @@
   {
     "id": "w115",
     "tag": "writing",
-    "source": "ocr-auto-p100",
+    "source": "generated-set-11",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1577,7 +1577,7 @@
   {
     "id": "w116",
     "tag": "writing",
-    "source": "ocr-auto-p100",
+    "source": "generated-set-11",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1590,7 +1590,7 @@
   {
     "id": "w117",
     "tag": "writing",
-    "source": "ocr-auto-p101",
+    "source": "generated-set-12",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1603,7 +1603,7 @@
   {
     "id": "w118",
     "tag": "writing",
-    "source": "ocr-auto-p101",
+    "source": "generated-set-12",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1616,7 +1616,7 @@
   {
     "id": "w119",
     "tag": "writing",
-    "source": "ocr-auto-p101",
+    "source": "generated-set-12",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1629,7 +1629,7 @@
   {
     "id": "w120",
     "tag": "writing",
-    "source": "ocr-auto-p106",
+    "source": "generated-set-18",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1642,7 +1642,7 @@
   {
     "id": "w121",
     "tag": "writing",
-    "source": "ocr-auto-p106",
+    "source": "generated-set-18",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1655,7 +1655,7 @@
   {
     "id": "w122",
     "tag": "writing",
-    "source": "ocr-auto-p107",
+    "source": "generated-set-13",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1668,7 +1668,7 @@
   {
     "id": "w123",
     "tag": "writing",
-    "source": "ocr-auto-p076",
+    "source": "generated-set-14",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1694,7 +1694,7 @@
   {
     "id": "w125",
     "tag": "writing",
-    "source": "ocr-auto-p082",
+    "source": "generated-set-15",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1720,7 +1720,7 @@
   {
     "id": "w127",
     "tag": "writing",
-    "source": "ocr-auto-p106",
+    "source": "generated-set-18",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1733,7 +1733,7 @@
   {
     "id": "w128",
     "tag": "writing",
-    "source": "ocr-auto-p106",
+    "source": "generated-set-18",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1746,7 +1746,7 @@
   {
     "id": "w129",
     "tag": "writing",
-    "source": "ocr-auto-p106",
+    "source": "generated-set-18",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1759,7 +1759,7 @@
   {
     "id": "w130",
     "tag": "writing",
-    "source": "ocr-auto-p070",
+    "source": "generated-set-05",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1772,7 +1772,7 @@
   {
     "id": "w131",
     "tag": "writing",
-    "source": "ocr-auto-p070",
+    "source": "generated-set-05",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1785,7 +1785,7 @@
   {
     "id": "w132",
     "tag": "writing",
-    "source": "ocr-auto-p071",
+    "source": "generated-set-06",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1798,7 +1798,7 @@
   {
     "id": "w133",
     "tag": "writing",
-    "source": "ocr-auto-p076",
+    "source": "generated-set-14",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1811,7 +1811,7 @@
   {
     "id": "w134",
     "tag": "writing",
-    "source": "ocr-auto-p076",
+    "source": "generated-set-14",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1824,7 +1824,7 @@
   {
     "id": "w135",
     "tag": "writing",
-    "source": "ocr-auto-p076",
+    "source": "generated-set-14",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1837,7 +1837,7 @@
   {
     "id": "w136",
     "tag": "writing",
-    "source": "ocr-auto-p082",
+    "source": "generated-set-15",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1850,7 +1850,7 @@
   {
     "id": "w137",
     "tag": "writing",
-    "source": "ocr-auto-p082",
+    "source": "generated-set-15",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1863,7 +1863,7 @@
   {
     "id": "w138",
     "tag": "writing",
-    "source": "ocr-auto-p083",
+    "source": "generated-set-16",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1876,7 +1876,7 @@
   {
     "id": "w139",
     "tag": "writing",
-    "source": "ocr-auto-p088",
+    "source": "generated-set-08",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1889,7 +1889,7 @@
   {
     "id": "w140",
     "tag": "writing",
-    "source": "ocr-auto-p089",
+    "source": "generated-set-09",
     "points": 2,
     "difficulty": 2,
     "question": "カタカナを漢字になおしなさい。",
@@ -1902,7 +1902,7 @@
   {
     "id": "w141",
     "tag": "writing",
-    "source": "ocr-auto-p094",
+    "source": "generated-set-17",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -1915,7 +1915,7 @@
   {
     "id": "w142",
     "tag": "writing",
-    "source": "ocr-auto-p094",
+    "source": "generated-set-17",
     "points": 2,
     "difficulty": 1,
     "question": "カタカナを漢字になおしなさい。",
@@ -2553,7 +2553,7 @@
   {
     "id": "r026",
     "tag": "reading",
-    "source": "generated-from-mock-01",
+    "source": "generated-set-19",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -2579,7 +2579,7 @@
   {
     "id": "r027",
     "tag": "reading",
-    "source": "generated-from-mock-01",
+    "source": "generated-set-19",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -2605,7 +2605,7 @@
   {
     "id": "r028",
     "tag": "reading",
-    "source": "generated-from-mock-01",
+    "source": "generated-set-19",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -2631,7 +2631,7 @@
   {
     "id": "r029",
     "tag": "reading",
-    "source": "generated-from-mock-01",
+    "source": "generated-set-19",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -2657,7 +2657,7 @@
   {
     "id": "r030",
     "tag": "reading",
-    "source": "generated-from-mock-01",
+    "source": "generated-set-19",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -2683,7 +2683,7 @@
   {
     "id": "r031",
     "tag": "reading",
-    "source": "generated-from-mock-01",
+    "source": "generated-set-19",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -2709,7 +2709,7 @@
   {
     "id": "r032",
     "tag": "reading",
-    "source": "generated-from-mock-01",
+    "source": "generated-set-19",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -2735,7 +2735,7 @@
   {
     "id": "r033",
     "tag": "reading",
-    "source": "generated-from-mock-01",
+    "source": "generated-set-19",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -2761,7 +2761,7 @@
   {
     "id": "r034",
     "tag": "reading",
-    "source": "generated-from-mock-01",
+    "source": "generated-set-19",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -2787,7 +2787,7 @@
   {
     "id": "r035",
     "tag": "reading",
-    "source": "generated-from-mock-02",
+    "source": "generated-set-20",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -2813,7 +2813,7 @@
   {
     "id": "r036",
     "tag": "reading",
-    "source": "generated-from-mock-02",
+    "source": "generated-set-20",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -2839,7 +2839,7 @@
   {
     "id": "r037",
     "tag": "reading",
-    "source": "generated-from-mock-02",
+    "source": "generated-set-20",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -2865,7 +2865,7 @@
   {
     "id": "r038",
     "tag": "reading",
-    "source": "generated-from-mock-02",
+    "source": "generated-set-20",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -2891,7 +2891,7 @@
   {
     "id": "r039",
     "tag": "reading",
-    "source": "generated-from-mock-02",
+    "source": "generated-set-20",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -2917,7 +2917,7 @@
   {
     "id": "r040",
     "tag": "reading",
-    "source": "generated-from-mock-02",
+    "source": "generated-set-20",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -2943,7 +2943,7 @@
   {
     "id": "r041",
     "tag": "reading",
-    "source": "generated-from-mock-03",
+    "source": "generated-set-21",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -2969,7 +2969,7 @@
   {
     "id": "r042",
     "tag": "reading",
-    "source": "generated-from-mock-03",
+    "source": "generated-set-21",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -2995,7 +2995,7 @@
   {
     "id": "r043",
     "tag": "reading",
-    "source": "generated-from-mock-03",
+    "source": "generated-set-21",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3021,7 +3021,7 @@
   {
     "id": "r044",
     "tag": "reading",
-    "source": "generated-from-mock-04",
+    "source": "generated-set-22",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3047,7 +3047,7 @@
   {
     "id": "r045",
     "tag": "reading",
-    "source": "generated-from-mock-04",
+    "source": "generated-set-22",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3073,7 +3073,7 @@
   {
     "id": "r046",
     "tag": "reading",
-    "source": "generated-from-mock-04",
+    "source": "generated-set-22",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3099,7 +3099,7 @@
   {
     "id": "r047",
     "tag": "reading",
-    "source": "generated-from-mock-04",
+    "source": "generated-set-22",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3125,7 +3125,7 @@
   {
     "id": "r048",
     "tag": "reading",
-    "source": "generated-from-mock-04",
+    "source": "generated-set-22",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3151,7 +3151,7 @@
   {
     "id": "r049",
     "tag": "reading",
-    "source": "generated-from-mock-04",
+    "source": "generated-set-22",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3177,7 +3177,7 @@
   {
     "id": "r050",
     "tag": "reading",
-    "source": "generated-from-mock-04",
+    "source": "generated-set-22",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3203,7 +3203,7 @@
   {
     "id": "r051",
     "tag": "reading",
-    "source": "generated-from-mock-05",
+    "source": "generated-set-23",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3229,7 +3229,7 @@
   {
     "id": "r052",
     "tag": "reading",
-    "source": "generated-from-mock-05",
+    "source": "generated-set-23",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3255,7 +3255,7 @@
   {
     "id": "r053",
     "tag": "reading",
-    "source": "generated-from-mock-05",
+    "source": "generated-set-23",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3281,7 +3281,7 @@
   {
     "id": "r054",
     "tag": "reading",
-    "source": "generated-from-mock-06",
+    "source": "generated-set-24",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3307,7 +3307,7 @@
   {
     "id": "r055",
     "tag": "reading",
-    "source": "generated-from-mock-06",
+    "source": "generated-set-24",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3333,7 +3333,7 @@
   {
     "id": "r056",
     "tag": "reading",
-    "source": "generated-from-mock-06",
+    "source": "generated-set-24",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3359,7 +3359,7 @@
   {
     "id": "r057",
     "tag": "reading",
-    "source": "generated-from-mock-06",
+    "source": "generated-set-24",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3385,7 +3385,7 @@
   {
     "id": "r058",
     "tag": "reading",
-    "source": "generated-from-mock-07",
+    "source": "generated-set-25",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3411,7 +3411,7 @@
   {
     "id": "r059",
     "tag": "reading",
-    "source": "generated-from-mock-07",
+    "source": "generated-set-25",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3437,7 +3437,7 @@
   {
     "id": "r060",
     "tag": "reading",
-    "source": "generated-from-mock-07",
+    "source": "generated-set-25",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3463,7 +3463,7 @@
   {
     "id": "r061",
     "tag": "reading",
-    "source": "generated-from-mock-07",
+    "source": "generated-set-25",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3489,7 +3489,7 @@
   {
     "id": "r062",
     "tag": "reading",
-    "source": "generated-from-mock-07",
+    "source": "generated-set-25",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3515,7 +3515,7 @@
   {
     "id": "r063",
     "tag": "reading",
-    "source": "generated-from-ocr-answer-01",
+    "source": "generated-set-26",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3541,7 +3541,7 @@
   {
     "id": "r064",
     "tag": "reading",
-    "source": "generated-from-ocr-answer-01",
+    "source": "generated-set-26",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3567,7 +3567,7 @@
   {
     "id": "r065",
     "tag": "reading",
-    "source": "generated-from-ocr-answer-01",
+    "source": "generated-set-26",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3593,7 +3593,7 @@
   {
     "id": "r066",
     "tag": "reading",
-    "source": "generated-from-ocr-answer-01",
+    "source": "generated-set-26",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3619,7 +3619,7 @@
   {
     "id": "r067",
     "tag": "reading",
-    "source": "generated-from-ocr-answer-01",
+    "source": "generated-set-26",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3645,7 +3645,7 @@
   {
     "id": "r068",
     "tag": "reading",
-    "source": "generated-from-ocr-answer-01",
+    "source": "generated-set-26",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3671,7 +3671,7 @@
   {
     "id": "r069",
     "tag": "reading",
-    "source": "generated-from-ocr-answer-01",
+    "source": "generated-set-26",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3697,7 +3697,7 @@
   {
     "id": "r070",
     "tag": "reading",
-    "source": "generated-from-ocr-answer-01",
+    "source": "generated-set-26",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3723,7 +3723,7 @@
   {
     "id": "r071",
     "tag": "reading",
-    "source": "generated-from-ocr-answer-01",
+    "source": "generated-set-26",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3749,7 +3749,7 @@
   {
     "id": "r072",
     "tag": "reading",
-    "source": "generated-from-ocr-answer-01",
+    "source": "generated-set-26",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3775,7 +3775,7 @@
   {
     "id": "r073",
     "tag": "reading",
-    "source": "generated-from-ocr-answer-02",
+    "source": "generated-set-27",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3801,7 +3801,7 @@
   {
     "id": "r074",
     "tag": "reading",
-    "source": "generated-from-ocr-answer-02",
+    "source": "generated-set-27",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3827,7 +3827,7 @@
   {
     "id": "r075",
     "tag": "reading",
-    "source": "generated-from-ocr-answer-02",
+    "source": "generated-set-27",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3853,7 +3853,7 @@
   {
     "id": "r076",
     "tag": "reading",
-    "source": "generated-from-ocr-answer-02",
+    "source": "generated-set-27",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3879,7 +3879,7 @@
   {
     "id": "r077",
     "tag": "reading",
-    "source": "generated-from-ocr-answer-02",
+    "source": "generated-set-27",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3905,7 +3905,7 @@
   {
     "id": "r078",
     "tag": "reading",
-    "source": "generated-from-ocr-answer-02",
+    "source": "generated-set-27",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3931,7 +3931,7 @@
   {
     "id": "r079",
     "tag": "reading",
-    "source": "generated-from-ocr-answer-03",
+    "source": "generated-set-28",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3957,7 +3957,7 @@
   {
     "id": "r080",
     "tag": "reading",
-    "source": "generated-from-ocr-answer-03",
+    "source": "generated-set-28",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -3983,7 +3983,7 @@
   {
     "id": "r081",
     "tag": "reading",
-    "source": "generated-from-ocr-answer-03",
+    "source": "generated-set-28",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4009,7 +4009,7 @@
   {
     "id": "r082",
     "tag": "reading",
-    "source": "generated-from-ocr-answer-03",
+    "source": "generated-set-28",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4035,7 +4035,7 @@
   {
     "id": "r083",
     "tag": "reading",
-    "source": "generated-from-ocr-answer-03",
+    "source": "generated-set-28",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4061,7 +4061,7 @@
   {
     "id": "r084",
     "tag": "reading",
-    "source": "generated-from-ocr-answer-03",
+    "source": "generated-set-28",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4087,7 +4087,7 @@
   {
     "id": "r085",
     "tag": "reading",
-    "source": "generated-from-ocr-answer-04",
+    "source": "generated-set-29",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4113,7 +4113,7 @@
   {
     "id": "r086",
     "tag": "reading",
-    "source": "generated-from-ocr-answer-04",
+    "source": "generated-set-29",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4139,7 +4139,7 @@
   {
     "id": "r087",
     "tag": "reading",
-    "source": "generated-from-ocr-answer-04",
+    "source": "generated-set-29",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4165,7 +4165,7 @@
   {
     "id": "r088",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p070",
+    "source": "generated-set-30",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4191,7 +4191,7 @@
   {
     "id": "r089",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p070",
+    "source": "generated-set-30",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4217,7 +4217,7 @@
   {
     "id": "r090",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p071",
+    "source": "generated-set-31",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4243,7 +4243,7 @@
   {
     "id": "r091",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p071",
+    "source": "generated-set-31",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4269,7 +4269,7 @@
   {
     "id": "r092",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p071",
+    "source": "generated-set-31",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4295,7 +4295,7 @@
   {
     "id": "r093",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p071",
+    "source": "generated-set-31",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4321,7 +4321,7 @@
   {
     "id": "r094",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p077",
+    "source": "generated-set-32",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4347,7 +4347,7 @@
   {
     "id": "r095",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p077",
+    "source": "generated-set-32",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4373,7 +4373,7 @@
   {
     "id": "r096",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p077",
+    "source": "generated-set-32",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4399,7 +4399,7 @@
   {
     "id": "r097",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p077",
+    "source": "generated-set-32",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4425,7 +4425,7 @@
   {
     "id": "r098",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p088",
+    "source": "generated-set-33",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4451,7 +4451,7 @@
   {
     "id": "r099",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p089",
+    "source": "generated-set-34",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4477,7 +4477,7 @@
   {
     "id": "r100",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p089",
+    "source": "generated-set-34",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4503,7 +4503,7 @@
   {
     "id": "r101",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p089",
+    "source": "generated-set-34",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4529,7 +4529,7 @@
   {
     "id": "r102",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p089",
+    "source": "generated-set-34",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4555,7 +4555,7 @@
   {
     "id": "r103",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p095",
+    "source": "generated-set-35",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4581,7 +4581,7 @@
   {
     "id": "r104",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p100",
+    "source": "generated-set-36",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4607,7 +4607,7 @@
   {
     "id": "r105",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p100",
+    "source": "generated-set-36",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4633,7 +4633,7 @@
   {
     "id": "r106",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p101",
+    "source": "generated-set-37",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4659,7 +4659,7 @@
   {
     "id": "r107",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p107",
+    "source": "generated-set-38",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4685,7 +4685,7 @@
   {
     "id": "r108",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p071",
+    "source": "generated-set-31",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4711,7 +4711,7 @@
   {
     "id": "r109",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p071",
+    "source": "generated-set-31",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4737,7 +4737,7 @@
   {
     "id": "r110",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p076",
+    "source": "generated-set-39",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4763,7 +4763,7 @@
   {
     "id": "r111",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p076",
+    "source": "generated-set-39",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4789,7 +4789,7 @@
   {
     "id": "r112",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p076",
+    "source": "generated-set-39",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4815,7 +4815,7 @@
   {
     "id": "r113",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p077",
+    "source": "generated-set-32",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4841,7 +4841,7 @@
   {
     "id": "r114",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p077",
+    "source": "generated-set-32",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4867,7 +4867,7 @@
   {
     "id": "r115",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p082",
+    "source": "generated-set-40",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4893,7 +4893,7 @@
   {
     "id": "r116",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p083",
+    "source": "generated-set-41",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4919,7 +4919,7 @@
   {
     "id": "r117",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p088",
+    "source": "generated-set-33",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4945,7 +4945,7 @@
   {
     "id": "r118",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p094",
+    "source": "generated-set-42",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4971,7 +4971,7 @@
   {
     "id": "r119",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p094",
+    "source": "generated-set-42",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -4997,7 +4997,7 @@
   {
     "id": "r120",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p100",
+    "source": "generated-set-36",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -5023,7 +5023,7 @@
   {
     "id": "r121",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p101",
+    "source": "generated-set-37",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -5049,7 +5049,7 @@
   {
     "id": "r122",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p101",
+    "source": "generated-set-37",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -5075,7 +5075,7 @@
   {
     "id": "r123",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p101",
+    "source": "generated-set-37",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -5101,7 +5101,7 @@
   {
     "id": "r124",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p106",
+    "source": "generated-set-43",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -5127,7 +5127,7 @@
   {
     "id": "r125",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p106",
+    "source": "generated-set-43",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -5153,7 +5153,7 @@
   {
     "id": "r126",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p107",
+    "source": "generated-set-38",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -5179,7 +5179,7 @@
   {
     "id": "r127",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p076",
+    "source": "generated-set-39",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -5205,7 +5205,7 @@
   {
     "id": "r128",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p077",
+    "source": "generated-set-32",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -5231,7 +5231,7 @@
   {
     "id": "r129",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p082",
+    "source": "generated-set-40",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -5257,7 +5257,7 @@
   {
     "id": "r130",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p101",
+    "source": "generated-set-37",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -5283,7 +5283,7 @@
   {
     "id": "r131",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p106",
+    "source": "generated-set-43",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -5309,7 +5309,7 @@
   {
     "id": "r132",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p106",
+    "source": "generated-set-43",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -5335,7 +5335,7 @@
   {
     "id": "r133",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p106",
+    "source": "generated-set-43",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -5361,7 +5361,7 @@
   {
     "id": "r134",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p070",
+    "source": "generated-set-30",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -5387,7 +5387,7 @@
   {
     "id": "r135",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p070",
+    "source": "generated-set-30",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -5413,7 +5413,7 @@
   {
     "id": "r136",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p076",
+    "source": "generated-set-39",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -5439,7 +5439,7 @@
   {
     "id": "r137",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p076",
+    "source": "generated-set-39",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -5465,7 +5465,7 @@
   {
     "id": "r138",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p076",
+    "source": "generated-set-39",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -5491,7 +5491,7 @@
   {
     "id": "r139",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p082",
+    "source": "generated-set-40",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -5517,7 +5517,7 @@
   {
     "id": "r140",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p082",
+    "source": "generated-set-40",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -5543,7 +5543,7 @@
   {
     "id": "r141",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p083",
+    "source": "generated-set-41",
     "points": 1,
     "difficulty": 2,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -5569,7 +5569,7 @@
   {
     "id": "r142",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p088",
+    "source": "generated-set-33",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -5595,7 +5595,7 @@
   {
     "id": "r143",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p089",
+    "source": "generated-set-34",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -5621,7 +5621,7 @@
   {
     "id": "r144",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p094",
+    "source": "generated-set-42",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -5647,7 +5647,7 @@
   {
     "id": "r145",
     "tag": "reading",
-    "source": "generated-from-ocr-auto-p094",
+    "source": "generated-set-42",
     "points": 1,
     "difficulty": 1,
     "question": "線のついた漢字の読みをひらがなで答えなさい。",
@@ -6323,7 +6323,7 @@
   {
     "id": "ok026",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -6349,7 +6349,7 @@
   {
     "id": "ok027",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -6375,7 +6375,7 @@
   {
     "id": "ok028",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -6401,7 +6401,7 @@
   {
     "id": "ok029",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 3,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -6427,7 +6427,7 @@
   {
     "id": "ok030",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 3,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -6453,7 +6453,7 @@
   {
     "id": "ok031",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 3,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -6479,7 +6479,7 @@
   {
     "id": "ok032",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 3,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -6505,7 +6505,7 @@
   {
     "id": "ok033",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -6531,7 +6531,7 @@
   {
     "id": "ok034",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -6557,7 +6557,7 @@
   {
     "id": "ok035",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -6583,7 +6583,7 @@
   {
     "id": "ok036",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -6609,7 +6609,7 @@
   {
     "id": "ok037",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -6635,7 +6635,7 @@
   {
     "id": "ok038",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -6661,7 +6661,7 @@
   {
     "id": "ok039",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 3,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -6687,7 +6687,7 @@
   {
     "id": "ok040",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 3,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -6713,7 +6713,7 @@
   {
     "id": "ok041",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -6739,7 +6739,7 @@
   {
     "id": "ok042",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -6765,7 +6765,7 @@
   {
     "id": "ok043",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -6791,7 +6791,7 @@
   {
     "id": "ok044",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -6817,7 +6817,7 @@
   {
     "id": "ok045",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -6843,7 +6843,7 @@
   {
     "id": "ok046",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -6869,7 +6869,7 @@
   {
     "id": "ok047",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 3,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -6895,7 +6895,7 @@
   {
     "id": "ok048",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -6921,7 +6921,7 @@
   {
     "id": "ok049",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -6947,7 +6947,7 @@
   {
     "id": "ok050",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -6973,7 +6973,7 @@
   {
     "id": "ok051",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -6999,7 +6999,7 @@
   {
     "id": "ok052",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 3,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -7025,7 +7025,7 @@
   {
     "id": "ok053",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -7051,7 +7051,7 @@
   {
     "id": "ok054",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -7077,7 +7077,7 @@
   {
     "id": "ok055",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 3,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -7103,7 +7103,7 @@
   {
     "id": "ok056",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -7129,7 +7129,7 @@
   {
     "id": "ok057",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 3,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -7155,7 +7155,7 @@
   {
     "id": "ok058",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -7181,7 +7181,7 @@
   {
     "id": "ok059",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -7207,7 +7207,7 @@
   {
     "id": "ok060",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -7233,7 +7233,7 @@
   {
     "id": "ok061",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 3,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -7259,7 +7259,7 @@
   {
     "id": "ok062",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -7285,7 +7285,7 @@
   {
     "id": "ok063",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -7311,7 +7311,7 @@
   {
     "id": "ok064",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -7337,7 +7337,7 @@
   {
     "id": "ok065",
     "tag": "on_kun",
-    "source": "generated-ok-ocr",
+    "source": "generated-set-44",
     "points": 2,
     "difficulty": 2,
     "question": "漢字の音読みと訓読みの組み合わせを選びなさい。",
@@ -10037,7 +10037,7 @@
   {
     "id": "hp025",
     "tag": "homophone",
-    "source": "generated-hp-ocr-えい",
+    "source": "generated-set-45",
     "points": 2,
     "difficulty": 2,
     "question": "（　）に入る漢字を選びなさい。",
@@ -10063,7 +10063,7 @@
   {
     "id": "hp026",
     "tag": "homophone",
-    "source": "generated-hp-ocr-えい",
+    "source": "generated-set-45",
     "points": 2,
     "difficulty": 2,
     "question": "（　）に入る漢字を選びなさい。",
@@ -10089,7 +10089,7 @@
   {
     "id": "hp027",
     "tag": "homophone",
-    "source": "generated-hp-ocr-えき",
+    "source": "generated-set-46",
     "points": 2,
     "difficulty": 2,
     "question": "（　）に入る漢字を選びなさい。",
@@ -10115,7 +10115,7 @@
   {
     "id": "hp028",
     "tag": "homophone",
-    "source": "generated-hp-ocr-えき",
+    "source": "generated-set-46",
     "points": 2,
     "difficulty": 2,
     "question": "（　）に入る漢字を選びなさい。",
@@ -10141,7 +10141,7 @@
   {
     "id": "hp029",
     "tag": "homophone",
-    "source": "generated-hp-ocr-かい",
+    "source": "generated-set-47",
     "points": 2,
     "difficulty": 2,
     "question": "（　）に入る漢字を選びなさい。",
@@ -10167,7 +10167,7 @@
   {
     "id": "hp030",
     "tag": "homophone",
-    "source": "generated-hp-ocr-かい",
+    "source": "generated-set-47",
     "points": 2,
     "difficulty": 2,
     "question": "（　）に入る漢字を選びなさい。",
@@ -10193,7 +10193,7 @@
   {
     "id": "hp031",
     "tag": "homophone",
-    "source": "generated-hp-ocr-こう",
+    "source": "generated-set-48",
     "points": 2,
     "difficulty": 2,
     "question": "（　）に入る漢字を選びなさい。",
@@ -10219,7 +10219,7 @@
   {
     "id": "hp032",
     "tag": "homophone",
-    "source": "generated-hp-ocr-こう",
+    "source": "generated-set-48",
     "points": 2,
     "difficulty": 2,
     "question": "（　）に入る漢字を選びなさい。",
@@ -10245,7 +10245,7 @@
   {
     "id": "hp033",
     "tag": "homophone",
-    "source": "generated-hp-ocr-さい",
+    "source": "generated-set-49",
     "points": 2,
     "difficulty": 2,
     "question": "（　）に入る漢字を選びなさい。",
@@ -10271,7 +10271,7 @@
   {
     "id": "hp034",
     "tag": "homophone",
-    "source": "generated-hp-ocr-さい",
+    "source": "generated-set-49",
     "points": 2,
     "difficulty": 2,
     "question": "（　）に入る漢字を選びなさい。",
@@ -10375,7 +10375,7 @@
   {
     "id": "hp038",
     "tag": "homophone",
-    "source": "generated-hp-ocr-ふく",
+    "source": "generated-set-50",
     "points": 2,
     "difficulty": 2,
     "question": "（　）に入る漢字を選びなさい。",
@@ -10401,7 +10401,7 @@
   {
     "id": "hp039",
     "tag": "homophone",
-    "source": "generated-hp-ocr-ふく",
+    "source": "generated-set-50",
     "points": 2,
     "difficulty": 2,
     "question": "（　）に入る漢字を選びなさい。",
@@ -10427,7 +10427,7 @@
   {
     "id": "hp040",
     "tag": "homophone",
-    "source": "generated-hp-ocr-ぼう",
+    "source": "generated-set-51",
     "points": 2,
     "difficulty": 2,
     "question": "（　）に入る漢字を選びなさい。",
@@ -10453,7 +10453,7 @@
   {
     "id": "hp041",
     "tag": "homophone",
-    "source": "generated-hp-ocr-ぼう",
+    "source": "generated-set-51",
     "points": 2,
     "difficulty": 2,
     "question": "（　）に入る漢字を選びなさい。",
